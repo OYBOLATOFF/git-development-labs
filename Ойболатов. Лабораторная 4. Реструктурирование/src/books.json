@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "cover": "https://data.fantlab.ru/images/editions/orig/854",
+      "title": "Властелин колец",
+      "author": "Дж.Р.Р. Толкин",
+      "price": 1500,
+      "discountedPrice": 1200,
+      "releaseDate": "29.07.1954"
+    },
+    {
+      "id": 2,
+      "cover": "https://cv3.litres.ru/pub/c/cover_max1500/63422937.jpg",
+      "title": "1984",
+      "author": "Джордж Оруэлл",
+      "price": 800,
+      "releaseDate": "08.06.1949"
+    },
+    {
+      "id": 3,
+      "cover": "https://avatars.mds.yandex.net/get-mpic/3611742/img_id2081804216839796984.jpeg/orig",
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "price": 1200,
+      "discountedPrice": 1000,
+      "releaseDate": "12.04.1966"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.pinimg.com/736x/3d/7e/fe/3d7efe37781cadde57f3f58fc0904db6.jpg",
+      "title": "Гарри Поттер и философский камень",
+      "author": "Дж. К. Роулинг",
+      "price": 1000,
+      "releaseDate": "26.06.1997"
+    },
+    {
+      "id": 5,
+      "cover": "https://cdn1.ozone.ru/s3/multimedia-0/6008637408.jpg",
+      "title": "Убить пересмешника",
+      "author": "Харпер Ли",
+      "price": 1100,
+      "discountedPrice": 900,
+      "releaseDate": "11.07.1960"
+    },
+    {
+      "id": 6,
+      "cover": "https://cdn.img-gorod.ru/nomenclature/25/676/2567624.jpg",
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "price": 900,
+      "releaseDate": "01.01.1936"
+    },
+    {
+      "id": 7,
+      "cover": "https://www.yolabooks.ru/storage/photo/resized/xy_1732x1732/f/9ef1oglgkr35lvj_1cf51e9b.jpg",
+      "title": "Преступление и наказание",
+      "author": "Фёдор Достоевский",
+      "price": 1300,
+      "discountedPrice": 1100,
+      "releaseDate": "12.1866"
+    },
+    {
+      "id": 8,
+      "cover": "https://cv3.litres.ru/pub/c/cover_max1500/125635.jpg",
+      "title": "Алиса в стране чудес",
+      "author": "Льюис Кэрролл",
+      "price": 950,
+      "releaseDate": "26.11.1865"
+    },
+    {
+      "id": 9,
+      "cover": "https://cdn.img-gorod.ru/nomenclature/23/066/2306615.jpg",
+      "title": "Цветы для Элджернона",
+      "author": "Даниел Киз",
+      "price": 1100,
+      "releaseDate": "19.03.1959"
+    },
+    {
+      "id": 10,
+      "cover": "https://book24.ua/upload/iblock/9c3/9c30427aa75e4a84bb30d51f9f4154cc.jpg",
+      "title": "Маленький принц",
+      "author": "Антуан де Сент-Экзюпери",
+      "price": 800,
+      "discountedPrice": 700,
+      "releaseDate": "06.04.1943"
+    }
+  ]
+  

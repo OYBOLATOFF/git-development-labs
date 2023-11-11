@@ -1,0 +1,63 @@
+[
+    {
+      "name": "William Shakespeare",
+      "birthdate": "Апрель 23, 1564",
+      "university": "Без образования",
+      "photo": "https://millionstatusov.ru/pic/statpic/all16/63934d11a530b.jpeg"
+    },
+    {
+      "name": "Jane Austen",
+      "birthdate": "Декабрь 16, 1775",
+      "university": "Без образования",
+      "photo": "https://i.pinimg.com/736x/3f/a2/6e/3fa26eb490f64cfe83aebf57f2e4c327--jane-austen.jpg"
+    },
+    {
+      "name": "Leo Tolstoy",
+      "birthdate": "Сентябрь 9, 1828",
+      "university": "Казанский университет",
+      "photo": "https://i.pinimg.com/originals/de/ac/ca/deacca2ce6f43ae57e2483cebb72f94b.jpg"
+    },
+    {
+      "name": "Charles Dickens",
+      "birthdate": "Февраль 7, 1812",
+      "university": "Без образования",
+      "photo": "https://kadet39.ru/wp-content/uploads/e/a/9/ea9e32f13a7be11dd5afe1d93949843c.jpeg"
+    },
+    {
+      "name": "Mark Twain",
+      "birthdate": "Ноябрь 30, 1835",
+      "university": "Без образования",
+      "photo": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mark-twain-christian-klute.jpg"
+    },
+    {
+      "name": "Fyodor Dostoevsky",
+      "birthdate": "Ноябрь 11, 1821",
+      "university": "Балтийский государственный технический университет «Военмех»",
+      "photo": "https://rgnp.ru/wp-content/uploads/9/8/3/98319e191cd356c144ada68c0d551448.jpeg"
+    },
+    {
+      "name": "J.K. Rowling",
+      "birthdate": "Июль 31, 1965",
+      "university": "Эксетерский университет",
+      "photo": "https://www.odt.co.nz/sites/default/files/story/2020/06/2020-06-10t174754z_865446924_rc2h6h90rwaz_rtrmadp_3_britain-rowling.jpg"
+    },
+    {
+      "name": "Agatha Christie",
+      "birthdate": "Сентябрь 15, 1890",
+      "university": "Университетский колледж Лондона",
+      "photo": "https://i.pinimg.com/736x/79/cc/29/79cc29418e37fc63a4b1bcbaa1cf80b3--agatha-christie.jpg"
+    },
+    {
+      "name": "George Orwell",
+      "birthdate": "Июнь 25, 1903",
+      "university": "Итонский колледж",
+      "photo": "https://zimamagazine.com/wp-content/uploads/2021/03/george-orwell-people-page2.jpg"
+    },
+    {
+      "name": "Gabriel García Márquez",
+      "birthdate": "Март 6, 1927",
+      "university": "Национальный университет Колумбии",
+      "photo": "https://ep01.epimg.net/cultura/imagenes/2016/09/23/actualidad/1474640904_529270_1474652850_noticia_normal_recorte1.jpg"
+    }
+  ]
+  
