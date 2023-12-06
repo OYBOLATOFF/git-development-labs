@@ -1,0 +1,45 @@
+/* styles.css */
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .menu li {
+    margin-right: 15px;
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+  
+  .menu-link:hover,
+  .menu-link:focus {
+    background-color: #555;
+  }
+  
+  .menu-link.active {
+    background-color: #777;
+  }
+
+  .filter {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+
+  .filter input {
+    text-align: center;
+  }
+  

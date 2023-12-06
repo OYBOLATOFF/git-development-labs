@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.addStudentForm {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  border: 2px solid gray;
+  border-radius: 15px;
+  padding: 25px;
+  background-color: white;
+}
+
+.addStudentForm input, .addStudentForm button {
+  margin: 5px;
+  width: 100%;
+  text-align: center;
+}
+
+body {
+  padding-bottom: 300px;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.selected, .table-striped tbody tr.selected:nth-of-type(odd) {
+  background-color: rgba(29, 123, 160, 0.219);
+  border: 2px solid rgba(17, 157, 212, 0.508);
+}
+
+/* Стили для кнопки "Удалить" */
+.delete-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  background-color: #cb1a06; /* Красный цвет */
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease; /* Анимация при наведении */
+  position: absolute;
+  bottom: 20px;
+  left: -500px;
+}
+
+.delete-button:hover {
+  background-color: #cb1a06; /* Изменение цвета при наведении */
+  scale: 1.05;
+}
+
+.delete-button.active {
+  bottom: 20px;
+  left: 20px;
+}
+
+.delete-button:active {
+  scale: 1.1;
+}
+
+/* Стили для иконки корзины */
+.delete-button i {
+  margin-right: 8px;
+}
+
+/* Убираем стандартное оформление иконки */
+.delete-button i::before {
+  font-family: 'Font Awesome 5 Free'; /* Подставьте свой шрифт Font Awesome */
+  content: '\f2ed'; /* Код иконки корзины */
+  font-weight: 900;
+}
+
+tr td:last-child {
+  background-color: rgb(0, 203, 10);
+  font-weight: bold;
+}
+
+tr.notEnoughScores td:last-child {
+  background-color: rgb(255, 0, 0);
+}
+
